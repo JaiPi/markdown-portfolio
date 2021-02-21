@@ -1,4 +1,7 @@
----
+<head>
+  <title>Test title</title>
+</head>
+  ---
 layout: default
 ---
 
